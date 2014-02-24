@@ -1,6 +1,6 @@
-# Simple Vanilla Starter Project
+# Simple Sass mixins
 
-A quick and simple starter project for front-end development projects.
+A collection of some simple Sass mixins that I use.
 
 ## Author
 
